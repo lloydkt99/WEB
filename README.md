@@ -10,5 +10,7 @@
 # 課程筆記區
 
 # 作業區
+## HW1
+[HomeWork1](https://youtu.be/ve3TUYuCHmM)
 
 # 專題區
