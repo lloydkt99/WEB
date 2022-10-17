@@ -11,6 +11,7 @@
 
 # 作業區
 ## HW1
-- [HomeWork1](https://youtu.be/ve3TUYuCHmM)
+- [Homework1](https://youtu.be/ve3TUYuCHmM)
+- [Homework2](https://youtu.be/67cvBneo2F4)
 
 # 專題區
