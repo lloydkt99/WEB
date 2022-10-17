@@ -10,7 +10,6 @@
 # 課程筆記區
 
 # 作業區
-## HW
 - [Homework1](https://youtu.be/ve3TUYuCHmM)
 - [Homework2](https://youtu.be/67cvBneo2F4)
 
